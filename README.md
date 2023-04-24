@@ -1,7 +1,7 @@
 # ds-CP2-project
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=_4C4C4B&height=200&section=header&text=Churn%20Classification&fontSize=50&fontColor=ECEA6E&desc=1%EC%9D%B8%20%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0%20SNS%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98%20%EC%9C%A0%EC%A0%80%20%EC%9D%B4%ED%83%88%20%EA%B0%90%EC%A7%80%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%AA%A8%ED%98%95%20%EC%84%A4%EA%B3%84%20%EB%B0%8F%20%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98&descSize=17&descAlignY=72)
+![header](https://capsule-render.vercel.app/api?type=rect&color=_4C4C4B&height=200&section=header&text=Churn%20Classification&fontSize=50&fontColor=ECEA6E&desc=%5B%EA%B8%B0%EC%97%85%EC%97%B0%EA%B3%84%5D%201%EC%9D%B8%20%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0%20SNS%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98%20%EC%9C%A0%EC%A0%80%20%EC%9D%B4%ED%83%88%20%EA%B0%90%EC%A7%80%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%AA%A8%ED%98%95%20%EC%84%A4%EA%B3%84%20%EB%B0%8F%20%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98&descSize=17&descAlignY=72)
 
 
 
@@ -18,6 +18,8 @@
      - 최소한의 자원으로 리텐션을 유지할 수 있음.
 - 이탈율 및 스티커여부와 상관관계가 높은 요소를 파악하며 내부 지표로 살필 수 있음.
 - 서비스에 부가가치를 창출하지만 이탈 가능성이 높은 관리우선대상군의 추가적인 특징을 파악하여 내부 지표로 살필 수 있음.
+
+※ 기업연계 MBA 상 코드 기재가 어려움을 양해부탁드립니다
 
 ---
 
