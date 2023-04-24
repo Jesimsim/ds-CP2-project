@@ -29,10 +29,10 @@
 ```EDA 및 Preprocessing > 모델 설계 및 선정 > 모델 결과 및 해석 > 관리우선대상군 분류 및 특징 파악```
 
 ### 팀 구성
-- 본인 : 데이터 EDA 및 Preprocessing(분해시계열, 프로세스마이닝), 모델 설계(실험 및 베이지안 서치를 통한 하이퍼파라미터 튜닝),  XAI, 유저 세그멘테이션 및 t-test를 통한 해석
+- 본인 : 데이터 EDA 및 Preprocessing, 모델 실험 및 튜닝,  XAI, 유저 세그멘테이션 및 t-test를 통한 해석
 - 팀원 1, 2 : 데이터 EDA 및 Preprocessing
-- 팀원 3 : 데이터 EDA 및 Preprocessing, 모델 설계(하이퍼파라미터튜닝)
-- 팀원 4 : 데이터 EDA 및 Preprocessing + 모듈화, 모델링 및 XAI 방법론 제안 및 구축
+- 팀원 3 : 데이터 EDA 및 Preprocessing, 모델 튜닝
+- 팀원 4 : 데이터 EDA 및 Preprocessing + 모듈화, 모델링 및 XAI 방법론 제안 및 모델 설계
 
 
 ### 수행한 Task
@@ -94,9 +94,9 @@
 
 ---
 
-## 결과
+## 프로젝트 결과
 
-### [ 결과 ]
+### [ 모델 성능 ]
 **이탈모델** : accuracy 0.87, microAP 0.94
 - Baseline Model(최빈모델)과 비교했을 때 높은 성능을 보임.
 - 타 ML모델과 비교했을 때, LGBM과는 accuracy는 비슷했으나 microAP는 높은 등 이탈을 보수적으로 판단하는 경향을 보임
