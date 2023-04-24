@@ -1,9 +1,7 @@
 # ds-CP2-project
 
 
-< 1인 크리에이터 SNS 플랫폼 서비스의 유저 이탈감지 시계열모형 설계 및 세그멘테이션 >
-
-![image](https://user-images.githubusercontent.com/114756802/234007756-ee67562e-9870-4096-a4a3-790dee41473b.png)
+![header](https://capsule-render.vercel.app/api?type=rect&color=_4C4C4B&height=200&section=header&text=Churn%20Classification&fontSize=50&fontColor=ECEA6E&desc=1%EC%9D%B8%20%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0%20SNS%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98%20%EC%9C%A0%EC%A0%80%20%EC%9D%B4%ED%83%88%20%EA%B0%90%EC%A7%80%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%AA%A8%ED%98%95%20%EC%84%A4%EA%B3%84%20%EB%B0%8F%20%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98&descSize=17&descAlignY=72)
 
 
 
@@ -14,7 +12,7 @@
 - 또한 시계열 모형을 해석(XAI)하여 각 지표에 영향을 미치는 요소를 파악함.
 - 더 나아가 이탈확률 * 스티커확률에 대한 시계열 모형을 구축하여 각 확률에 따라 관리우선점수 및 관리우선대상군을 부여하고, 관리우선대상군과 비대상군의 통계량을 검정하여 각 지표와 연관된 요소를 파악함
 
-### 프로젝트 부가가치
+### 프로젝트 의의
 - 로그를 통해 이탈군을 파악하여 이탈군 대상 리텐션 관리방안 모색
      - user-fit 마케팅(이탈군 전용 할인정책), CRM시스템, 새로운 기능 구현(push메시지) 등
      - 최소한의 자원으로 리텐션을 유지할 수 있음.
@@ -96,7 +94,7 @@
 ## 한계점 및 해결방안
 
 - 코호트 분석 등 이탈군 분석 고도화 
-- 세그멘테이션 고도화
+- 세그멘테이션 고도화 방법론 모색 
 - 도메인/마케팅방법론 등 다양한 지식을 바탕으로 EDA 및 모델 결과 해석
 - 이상탐지모델로서의 가능성 탐색
 - 딥러닝 모델의 장점 상 다중공선성 높은 컬럼을 넣어도 잘 해석하지만, 제거하고 학습했을 때의 결과도 실험해봤으면 좋았을 것  
